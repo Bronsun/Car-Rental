@@ -1,0 +1,8 @@
+Klasa_A Klasa_C Klasa_E Klasa_S Klasa_G 
+Seria_1 Seria_3 Seria_5 Seria_7 X6 X5 
+Fiesta Focus Mondeo Mustang 
+208 308 508 5008 
+Panamera 
+
+Portofino 
+

@@ -1,0 +1,8 @@
+
+--------------DANE:---------------------
+			Imie: kjkjkj
+			Nazwisko: lklklk
+			Pesel: 876543y
+-----------SAMOCHOD:--------------------
+Klasa_A	od: 20.2.2020	do: 10.3.2020
+Kwota do zaplaty: 1800
